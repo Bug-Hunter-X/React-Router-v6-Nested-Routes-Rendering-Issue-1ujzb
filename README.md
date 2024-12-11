@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when working with nested routes in React Router v6. The problem involves nested routes failing to render their components, even when the parent route renders without errors.  The solution provided addresses this issue by ensuring proper nesting and route definition within the React Router components.
